@@ -1,26 +1,60 @@
-#PRIMO-BLOCCO{
-    background-color: rgb(9, 9, 48);
-    padding-bottom: 1%;
-    padding-top: 1%;
-    padding-left: 2%;
+#TUTTO {
+  background-color: rgb(245, 230, 230);
 }
-#SECONDO-BLOCCO{
-    background-color: rgb(42, 42, 230);
-    padding: 1%;
-   
+#PRIMO-BLOCCO {
+  background-color: rgb(9, 9, 48);
+  padding-bottom: 1%;
+  padding-top: 1%;
+  padding-left: 2%;
 }
-a:link{
-    color:white;
-    display:inline-block;
-    padding-inline: 1%;
+#SECONDO-BLOCCO {
+  color: white;
+  background-color: rgb(42, 42, 230);
+  padding: 1%;
+}
+a:link {
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  padding-inline: 1%;
+}
 
+#TERZO-BLOCCO {
+  color: white;
+  background-color: orangered;
+  padding: 1%;
+  margin-left: 3%;
+  margin-right: 3%;
+  text-align: center;
 }
-#TERZO-BLOCCO{
-    color:white;
-    background-color: orangered;
-   padding:1%;
-   margin-left: 3%;
-   margin-right: 3%;
-   text-align: center;
-    
+#QUARTO-BLOCCO {
+  color: white;
+  background-image: url("https://media.discordapp.net/attachments/1420060684984651823/1423588385137754162/bg-image.png?ex=68e0db80&is=68df8a00&hm=00e266d42d873c5f867e2cfe5632d3a5ebb64bdf6ae1fc3167047ba52210670f&=&format=webp&quality=lossless&width=1128&height=113");
+  margin-right: 3%;
+  margin-left: 3%;
+  text-align: center;
+  padding: 1%;
+}
+#QUINTO-BLOCCO {
+  padding: 1%;
+  margin-right: 3%;
+  margin-left: 3%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  background-color: white;
+  text-align: left;
+}
+#IMMAGINI {
+  display: inline-block;
+  align-content: center;
+  margin: 1%;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  width: 100%;
+}
+.IMMAGINI-SEPARATE {
+  margin-right: 2%;
+  margin-left: 2%;
+  border-radius: 10%;
+  box-shadow: 10px 10px 30px ;
 }
