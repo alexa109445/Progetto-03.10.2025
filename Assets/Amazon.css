@@ -12,7 +12,7 @@
   background-color: rgb(42, 42, 230);
   padding: 1%;
 }
-a{
+a {
   color: white;
   text-decoration: none;
   display: inline-block;
@@ -78,5 +78,11 @@ a{
   padding-bottom: 1%;
   text-align: center;
 }
-
-
+#OTTAVO-BLOCCO {
+  background-color: rgb(9, 9, 48);
+  padding-bottom: 2%;
+  padding-top: 2%;
+  text-align: center;
+  margin-left: 3%;
+  margin-right: 3%;
+}
