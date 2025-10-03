@@ -12,7 +12,7 @@
   background-color: rgb(42, 42, 230);
   padding: 1%;
 }
-a:link {
+a{
   color: white;
   text-decoration: none;
   display: inline-block;
@@ -59,16 +59,24 @@ a:link {
   box-shadow: 10px 10px 30px;
 }
 #SESTO-BLOCCO {
-    margin-bottom: 1%;
-    margin-top: 1%;
+  margin-bottom: 1%;
+  margin-top: 1%;
   text-align: center;
   background-color: white;
   margin-left: 3%;
   margin-right: 3%;
-  
 }
-.IMMAGINI-SESTO-BLOCCO{
-    
-    margin-bottom: 1%;
-   width: 100%;
+.IMMAGINI-SESTO-BLOCCO {
+  margin-bottom: 1%;
+  width: 100%;
 }
+#SETTIMO-BLOCCO {
+  background-color: rgb(55, 55, 146);
+  margin-left: 3%;
+  margin-right: 3%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  text-align: center;
+}
+
+
