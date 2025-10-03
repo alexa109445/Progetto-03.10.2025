@@ -4,3 +4,14 @@
     padding-top: 1%;
     padding-left: 2%;
 }
+#SECONDO-BLOCCO{
+    background-color: rgb(42, 42, 230);
+    padding: 1%;
+   
+}
+a:link{
+    color:white;
+    display:inline-block;
+    padding-inline: 1%;
+
+}
